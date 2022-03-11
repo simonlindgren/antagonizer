@@ -9,5 +9,7 @@ Based on a corpus of _authors_, having produced a number of _documents_ each, th
 3. Assign the tagged authors with individual scores (mean bias score of their used partisan phrases) based on their language use.
 4. Draw an interactive plot showing the polarization (antagonism) between the two groups.
 
+The code is in `antagonizer.py`. See the tutorial notebook for details on how to run the analysis.
+
 ----
 Laclau, E., & Mouffe, C. (1985). _Hegemony and Socialist Strategy: Towards a Radical Democratic Politics_. Verso.

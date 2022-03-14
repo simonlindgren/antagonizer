@@ -4,7 +4,7 @@ In their understanding of the social as a discursive space, Laclau and Mouffe (1
 
 This method makes it possible to get a visual image of the polarity/partisanship of (political) speech, and thereby enables further closer analysis of the shape of antagonisms, in terms of the intensity and tonality of the different sides of a debate or issue.
 
-![example-image](https://github.com/simonlindgren/antagonizer/blob/main/antagonizer_example.png)
+![example-image](https://github.com/simonlindgren/antagonizer/blob/main/antagonizer.png)
 
 Based on a corpus of _authors_, having produced a number of _documents_ each, this method will do the following:
 

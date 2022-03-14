@@ -2,7 +2,7 @@
 
 In their understanding of the social as a discursive space, Laclau and Mouffe (1985, p. 114) argue that the importance of the concept of _**antagonism**_ "stems from the fact that, in one of its key dimensions, the specificity of a hegemonic articulatory practice is given by its confrontation with other articulatory practices of an antagonistic character". The hereby provided method makes it possible to map antagonistic relationships in (political) discourse. Laclau and Mouffe (1985, p. 124) go on to say that "the usual descriptions of antagonisms in the sociological or historical literature [...] explain the conditions which made antagonisms possible, but not the antagonisms as such". This method makes it possible to get a visual image of the polarity/partisanship of (political) speech, and thereby enables further closer analysis of the shape of antagonisms, in terms of the intensity and tonality of the different sides.
 
-![example-image](antagonizer-example.png)
+![example-image](https://github.com/simonlindgren/antagonizer/blob/main/antagonizer_example.png)
 
 Based on a corpus of _authors_, having produced a number of _documents_ each, this method will do the following:
 
